@@ -1,0 +1,241 @@
+
+  body {
+    background-image: url(../images/game1.jpg);
+  }
+   
+
+    .info {
+      display:inline;
+    }
+    
+    .row {
+      padding: 0px;
+      width:100%;
+      margin-left: 0px;
+      margin-right: 0px;
+      background-color: #000000;
+      margin-bottom: 35px;
+    }
+    
+    p {
+      color: #33dad0;
+    }
+
+
+    header {
+      width: 100%;
+      overflow: visible;
+    }
+
+
+    .card {
+      width: 250px;
+      border-color: purple;
+      border-style: ridge;
+      border-width: 3px;
+
+    }
+    
+    .card-body {
+      width: 250px;
+    }
+
+    h1 {
+      padding-top: 40px;
+      color: #33dad0;
+    }
+
+
+    .navbar {
+
+    }
+
+    .info {
+      margin-top: 10px;
+      font-size: 20px;
+    }
+
+    h2 {
+      margin-left: 0px;
+      background-color: #33dad0;
+      padding: 21px;
+      color: white;
+    }
+   
+
+   a {
+    color: #33dad0;
+   }
+
+   .profile {
+    width: 200px;
+    height: 200px;
+   }
+
+  
+
+  .card {
+    background-color: #33dad0;
+  }
+
+  .card-text {
+    color: black;
+  }
+
+  textarea {
+    height: 200px;
+    width: 100%;
+  }
+
+
+
+   .footer {
+  height: 9%;
+  background-color: #777777;
+  padding-top: 2%;
+  border-top-color: #777777;
+  border-top-style: inset;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+input {
+  width:100%;
+}
+
+.ww {
+  width: 20%;
+  background-color: #33dad0; 
+}
+
+label {
+  color: #33dad0 ;
+}
+
+
+  .game1 {
+    background-image: url(../images/game1.jpg);
+    height: 200px;
+    width: 250px;
+    padding: 5px;
+    background-size: 250px 200px;
+    border-color: purple;
+    border-style: ridge;
+    border-width: 3px;
+  }
+
+  .game2 {
+    background-image: url(../images/game2.jpg);
+    height: 200px;
+    width: 250px;
+    padding: 5px;
+    background-size: 250px 200px;
+    border-color: purple;
+    border-style: ridge;
+    border-width: 3px;
+  }
+
+  .game3 {
+    background-image: url(../images/game3.jpg);
+    height: 200px;
+    width: 250px;
+    padding: 5px;
+    background-size: 250px 200px;
+    border-color: purple;
+    border-style: ridge;
+    border-width: 3px;
+  }
+  
+  .widget {
+    background-image: url(../images/widget.jpg);
+    height: 200px;
+    width: 250px;
+    padding: 5px;
+    background-size: 250px 200px;
+    border-color: purple;
+    border-style: ridge;
+    border-width: 3px;
+  }
+
+  .rps {
+    background-image: url(../images/rps.jpg);
+    height: 200px;
+    width: 250px;
+    padding: 5px;
+    background-size: 250px 200px;
+    border-color: purple;
+    border-style: ridge;
+    border-width: 3px;
+  }
+
+  .port-text {
+    text-align: center;
+    background-color: #33dad0;
+    margin-top: 133px;
+    margin-left: -5px;
+    margin-right: -5px;
+    padding: 10px;
+  }
+
+
+  hr {
+    background-color: #33dad0;
+  }
+
+
+
+   @media screen and (max-width: 985px) {
+
+      .card {
+    background-color: #33dad0;
+    margin-bottom: 38px;
+    margin: 0 auto;
+  }
+
+  .card-text {
+    color: black;
+  }
+
+
+   input {
+    width: 182%;
+   }
+
+  textarea {
+    width: 182%;
+    height: 150%;
+  }
+  
+  h1 {
+    text-align: center;
+    width: 150%;
+  }
+  
+  hr {
+    width: 0%;
+
+  }
+   
+  h2 {
+    text-align: center;
+    width: 150%;
+  }
+  
+  .ww {
+    width:45%;
+  }
+   
+
+  .info {
+    text-align: center;
+    width: 90%;
+  }
+
+  footer {
+    height: 2%;
+  }
+
+
+
+}
